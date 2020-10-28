@@ -1,70 +1,58 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Simply Start
 
-## Available Scripts
+Technica 2020\
+[Capital One - Best Financial Hack Winner](https://technica2020.devpost.com/)
 
-In the project directory, you can run:
+## About
+Simply Start is an app that promotes small businesses and leverages the power & success of women entrepreneurs and businesses of color by helping them get crowdfunding by retail investors for equity.
 
-### `npm start`
+![Simply Start Logo](https://i.postimg.cc/5yDn48KT/SS.jpg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## The Team
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+ - [Rhea Manuel](https://github.com/rhea-manuel/)
+ - [Nithyasri Babu](https://github.com/NithyasriBabu)
+ - [Sulbha Aggarwal](https://github.com/SulbhaAgg/)
+ - Elena Sadler
 
-### `npm test`
+## Inspiration
+Startups and small businesses have been hit severely due to COVID-19. They don’t have enough resources to reach out for help or to connect with investors. Not all startups are making millions of dollars in growth every year to present their product to a shark tank for more investment.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Meanwhile, most people are not billionaires but want to invest.
 
-### `npm run build`
+So, we wanted to build a platform that benefits small businesses from the perspective of both crowdfunding seekers and investors.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How it works
+Simply Start: An app that promotes small businesses and leverages the power & success of women entrepreneurs and businesses of color by helping them get crowdfunding by retail investors for equity.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### App walkthrough
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   - User starts by logging in after authentication via their personalized username and password. Each session of the user login generates a personalized API token, which helps maintain a secure environment for their activity on the application.
+    - After logging in, the user is greeted by a personalized login page containing the user's total investments. It shows the startups they could invest in and their favorite small businesses.
+    - What makes our app stand out is the "highlights" feature of our platform. Each month we pick the "Business of the Month" to promote underrepresented and discriminated businesses. This is a massive problem in the world of business investments. We want to stand by and promote those businesses by highlighting them.
+    Each diverse business has its own personalized, dynamically created page that shows business growth, expenses, and revenue.
+    - Investors can choose to invest in any of the businesses shown. They also receive an investment credit of $10 as an incentive from us!
 
-### `npm run eject`
+> Our goal is to make investing fun and create inclusion within the community.
+## How it was built
+###  Tech Stack:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- **`React.js`:** Front end, The entire application is built upon the React, using state hooks and components to make this a single page application and dynamic rendering of charts, without the page ever being refreshed.
+- **`HTML/CSS`:** For webpage structuring and styling.
+- **`JavaScript`:** For validation and dynamically connecting components.
+- **`Chart.js`:** For creating beautiful data visualization graphs.
+- **`Django`:** Fully structured database built with Django models and APIs created with Django Rest Framework.
+- **`Python`:** Back-end operations to update and maintain the data collected and handled by the users of the application. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
+Run ```npm start```
+The app will be served at ``localhost:3000``
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Future Plans
+-   Highlight preferred companies or frequently contributed company types specific to each user.
+-   Language analysis on User comments on each Contribution to give user badges for contributions.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Accomplishments
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   - Won Best Financial Hack at Technica 2020.

@@ -28,11 +28,11 @@ Simply Start: An app that promotes small businesses and leverages the power & su
 
 ### App walkthrough
 
-   - User starts by logging in after authentication via their personalized username and password. Each session of the user login generates a personalized API token, which helps maintain a secure environment for their activity on the application.
-    - After logging in, the user is greeted by a personalized login page containing the user's total investments. It shows the startups they could invest in and their favorite small businesses.
-    - What makes our app stand out is the "highlights" feature of our platform. Each month we pick the "Business of the Month" to promote underrepresented and discriminated businesses. This is a massive problem in the world of business investments. We want to stand by and promote those businesses by highlighting them.
-    Each diverse business has its own personalized, dynamically created page that shows business growth, expenses, and revenue.
-    - Investors can choose to invest in any of the businesses shown. They also receive an investment credit of $10 as an incentive from us!
+- User starts by logging in after authentication via their personalized username and password. Each session of the user login generates a personalized API token, which helps maintain a secure environment for their activity on the application.
+- After logging in, the user is greeted by a personalized login page containing the user's total investments. It shows the startups they could invest in and their favorite small businesses.
+- What makes our app stand out is the "highlights" feature of our platform. Each month we pick the "Business of the Month" to promote underrepresented and discriminated businesses. This is a massive problem in the world of business investments. We want to stand by and promote those businesses by highlighting them.
+- Each diverse business has its own personalized, dynamically created page that shows business growth, expenses, and revenue.
+- Investors can choose to invest in any of the businesses shown. They also receive an investment credit of $10 as an incentive from us!
 
 > Our goal is to make investing fun and create inclusion within the community.
 ## How it was built
